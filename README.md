@@ -7,3 +7,5 @@ The data collection directory contains all scripts related to the collection of 
 The database was mapped and correlated using Firebase's API for correlations. Slack's API (without the token in this repo!) was used for informing staff of maintenance.
 
 This project was powered by Google Firebase and Slack's API.
+
+Video Link is here.
